@@ -31,15 +31,16 @@
 31.Aura Spirit Dracula Theme
 32.Auto Rename Tag
 33.Console Ninja
-//Theme
-*JellyFish
-*Noctis Black
-*One Dark Pro Black
-*Dracula Official (Black Edition)
-*Night Owl Black
-*Cyberpunk 2077 Black
+34.JellyFish
+35.Noctis Black
+36.One Dark Pro Black
+37.Dracula Official (Black Edition)
+38.Night Owl Black
+39.Cyberpunk 2077 Black
+
 
 // The most reputable publishers for each Extension
+
 
 1.Auto Rename Tag: Jun Han
 2.Auto Import: Stefano Volpe
@@ -74,3 +75,270 @@
 31.Aura Spirit Dracula Theme: Aura Dev
 32.Auto Rename Tag: Jun Han
 33.Console Ninja: Wallaby.js
+
+
+//Divide working area 
+
+
+💡 Productivity & Code Assistance  
+1. Auto Rename Tag  
+2. Auto Import  
+3. Better Comments  
+4. Bracket Pair Color DLW  
+5. Bracket Pair Colorization Toggler  
+6. Code Runner  
+7. CodeSnap  
+8. Color Highlight  
+
+🚨 Debugging & Error Handling  
+9. Error Lens  
+10. ESLint  
+11. Console Ninja  
+
+📜 File & Code Management  
+12. Excalidraw  
+13. GitHub Theme  
+14. HTML CSS Support  
+15. HTML End Tag Labels  
+16. Image preview  
+17. indent-rainbow  
+18. JavaScript (ES6) code snippets  
+19. JSON Viewer  
+
+💻 Web Development Tools  
+20. Live Server  
+21. Material Icon Theme  
+22. npm Intellisense  
+23. Path Autocomplete  
+24. Path Intellisense  
+25. Prettier - Code formatter  
+26. React Extension Pack  
+27. REST Client  
+28. Tailwind CSS IntelliSense  
+29. Thunder Client  
+
+🕹️ Fun & Miscellaneous  
+30. vscode-pets  
+31. WakaTime  
+
+🎨 Themes  
+32. JellyFish  
+33. Noctis Black  
+34. One Dark Pro Black  
+35. Dracula Official (Black Edition)  
+36. Night Owl Black  
+37. Cyberpunk 2077 Black  
+
+
+//VS Code extensions list with descriptions
+
+
+💡 Productivity & Code Assistance  
+1. Auto Rename Tag – HTML/XML ট্যাগের নাম পরিবর্তন করলে, closing ট্যাগও অটো পরিবর্তন হয়।  
+2. Auto Import – JavaScript/TypeScript এ import statement অটোমেটিক নিয়ে আসে।  
+3. Better Comments – কোডের কমেন্ট গুলোকে রঙিন এবং আরও বোঝার মতো করে সাজায়।  
+4. Bracket Pair Color DLW – Bracket গুলোর কালার আলাদা করে, nested brackets বুঝতে সহজ হয়।  
+5. Bracket Pair Colorization Toggler – Bracket colorization দ্রুত অন/অফ করা যায়।  
+6. Code Runner – JavaScript, Python, C, C++ সহ বিভিন্ন কোড VS Code থেকে সরাসরি রান করতে দেয়।  
+7. CodeSnap – সুন্দর code snippets screenshot নেওয়ার জন্য ব্যবহার হয়।  
+8. Color Highlight – CSS/JS ফাইলের কালার কোড (hex, rgba) গুলোকে হাইলাইট করে দেখায়।  
+
+🚨 Debugging & Error Handling  
+9. Error Lens – কোডের errors & warnings সরাসরি লাইনে দেখায়, আলাদা করে console চেক করতে হয় না।  
+10. ESLint – JavaScript/TypeScript এর syntax & formatting errors ধরতে সাহায্য করে।  
+11. Console Ninja – Console.log এর alternative, ভালো ভাবে debugging output দেখায়।  
+
+📜 File & Code Management  
+12. Excalidraw – VS Code এর মধ্যেই diagram & flowchart আঁকার সুবিধা দেয়।  
+13. GitHub Theme – GitHub এর মত dark/light theme দেয়।  
+14. HTML CSS Support – HTML ফাইলের জন্য CSS class & id suggestion দেয়।  
+15. HTML End Tag Labels – HTML এর closing tag গুলো হাইলাইট করে, বুঝতে সহজ হয়।  
+16. Image preview – Markdown বা HTML ফাইলের ইমেজ VS Code এর মধ্যেই preview করা যায়।  
+17. indent-rainbow – Indented block গুলোকে আলাদা রঙে দেখায়, nested structure সহজে বুঝতে সাহায্য করে।  
+18. JavaScript (ES6) code snippets – JavaScript ES6 এর জন্য short snippets (ex: clg → console.log()) দেয়।  
+19. JSON Viewer – JSON ফাইলকে সুন্দরভাবে ফরম্যাটেড করে দেখায়।  
+
+💻 Web Development Tools  
+20. Live Server – HTML/CSS/JS ফাইল লাইভ প্রিভিউ করে এবং auto-reload দেয়।  
+21. Material Icon Theme – VS Code এর ফাইল এবং ফোল্ডার icons সুন্দর করে।  
+22. npm Intellisense – npm modules এর নাম suggestion দেয়।  
+23. Path Autocomplete – ফাইল ও ফোল্ডারের path লেখা সহজ করে।  
+24. Path Intellisense – ফাইল ও ফোল্ডারের path suggestion দেয়।  
+25. Prettier - Code formatter – কোড formatting & styling সুন্দর করে।  
+26. React Extension Pack – ReactJS ডেভেলপমেন্টের জন্য দরকারি একগুচ্ছ এক্সটেনশন।  
+27. REST Client – API টেস্টিং করা যায় (Postman এর বিকল্প)।  
+28. Tailwind CSS IntelliSense – Tailwind CSS এর জন্য class suggestion & syntax highlighting দেয়।  
+29. Thunder Client – REST API request করা যায় (Postman এর মত)।  
+
+🕹️ Fun & Miscellaneous  
+30. vscode-pets – VS Code এ মজার virtual pets নিয়ে আসে।  
+31. WakaTime – কোডিং টাইম ট্র্যাক করার জন্য analytics tool।  
+
+🎨 Themes  
+32. JellyFish – Soft dark theme  
+33. Noctis Black – Pure black theme  
+34. One Dark Pro Black – One Dark Pro এর black version  
+35. Dracula Official (Black Edition) – Dracula এর black version  
+36. Night Owl Black – Black variant of Night Owl  
+37. Cyberpunk 2077 Black – Cyberpunk-style black theme  
+
+
+//VS Code extensions list with descriptions in English
+
+
+💡 Productivity & Code Assistance  
+1. Auto Rename Tag – Automatically renames closing tags when you change an opening tag in HTML/XML.  
+2. Auto Import – Automatically adds missing import statements in JavaScript/TypeScript.  
+3. Better Comments – Enhances code comments with colors and formatting for better readability.  
+4. Bracket Pair Color DLW – Colors matching brackets to make nested structures easier to understand.  
+5. Bracket Pair Colorization Toggler – Quickly toggle bracket colorization on and off.  
+6. Code Runner – Run JavaScript, Python, C, C++, and more directly from VS Code.  
+7. CodeSnap – Capture and save beautiful code snippets as images.  
+8. Color Highlight – Highlights color codes (hex, rgba) in CSS/JS files.  
+
+🚨 Debugging & Error Handling  
+9. Error Lens – Displays errors and warnings directly in the code, reducing the need to check the console.  
+10. ESLint – Helps detect syntax and formatting issues in JavaScript/TypeScript.  
+11. Console Ninja – A better alternative to console.log for improved debugging output.  
+
+📜 File & Code Management  
+12. Excalidraw – Allows you to draw diagrams and flowcharts directly in VS Code.  
+13. GitHub Theme – Provides GitHub-style dark and light themes.  
+14. HTML CSS Support – Suggests CSS classes and IDs while working with HTML files.  
+15. HTML End Tag Labels – Highlights and labels closing HTML tags for better readability.  
+16. Image Preview – Previews images inside Markdown or HTML files in VS Code.  
+17. Indent-Rainbow – Colors indentation levels to make nested code structures easier to read.  
+18. JavaScript (ES6) Code Snippets – Provides short JavaScript ES6 snippets (e.g., `clg → console.log()`).  
+19. JSON Viewer – Formats and displays JSON files in a readable structure.  
+
+💻 Web Development Tools  
+20. Live Server – Provides live preview and auto-reload for HTML/CSS/JS files.  
+21. Material Icon Theme – Enhances VS Code with stylish icons for files and folders.  
+22. npm Intellisense – Suggests npm package names while typing.  
+23. Path Autocomplete – Helps with autocompleting file and folder paths.  
+24. Path Intellisense – Provides path suggestions while coding.  
+25. Prettier - Code Formatter – Automatically formats and beautifies your code.  
+26. React Extension Pack – A bundle of essential extensions for ReactJS development.  
+27. REST Client – Allows testing APIs directly from VS Code (alternative to Postman).  
+28. Tailwind CSS IntelliSense – Provides class suggestions and syntax highlighting for Tailwind CSS.  
+29. Thunder Client – A lightweight REST API testing tool (similar to Postman).  
+
+🕹️ Fun & Miscellaneous  
+30. vscode-pets – Adds virtual pets inside VS Code for fun.  
+31. WakaTime – Tracks coding activity and provides analytics.  
+
+🎨 Themes  
+32. JellyFish – A soft dark theme.  
+33. Noctis Black – A pure black theme.  
+34. One Dark Pro Black – A black version of One Dark Pro.  
+35. Dracula Official (Black Edition) – A black variant of the Dracula theme.  
+36. Night Owl Black – A black version of Night Owl.  
+37. Cyberpunk 2077 Black – A cyberpunk-style black theme.  
+
+
+//_________________________________//
+
+
+💡 Productivity & Code Assistance  
+1. Auto Rename Tag – Automatically renames closing tags when you change an opening tag in HTML/XML. (Publisher: Jun Han)  
+2. Auto Import – Automatically adds missing import statements in JavaScript/TypeScript. (Publisher: steoates)  
+3. Better Comments – Enhances code comments with colors and formatting for better readability. (Publisher: Aaron Bond)  
+4. Bracket Pair Color DLW – Colors matching brackets to make nested structures easier to understand. (Publisher: DWL)  
+5. Bracket Pair Colorization Toggler – Quickly toggle bracket colorization on and off. (Publisher: CoenraadS)  
+6. Code Runner – Run JavaScript, Python, C, C++, and more directly from VS Code. (Publisher: Jun Han)  
+7. CodeSnap – Capture and save beautiful code snippets as images. (Publisher: adpyke)  
+8. Color Highlight – Highlights color codes (hex, rgba) in CSS/JS files. (Publisher: Sergii Naumov)  
+
+🚨 Debugging & Error Handling  
+9. Error Lens – Displays errors and warnings directly in the code, reducing the need to check the console. (Publisher: Alexander)  
+10. ESLint – Helps detect syntax and formatting issues in JavaScript/TypeScript. (Publisher: Microsoft)  
+11. Console Ninja – A better alternative to console.log for improved debugging output. (Publisher: Wallaby.js)  
+
+📜 File & Code Management  
+12. Excalidraw – Allows you to draw diagrams and flowcharts directly in VS Code. (Publisher: Excalidraw)  
+13. GitHub Theme – Provides GitHub-style dark and light themes. (Publisher: GitHub)  
+14. HTML CSS Support – Suggests CSS classes and IDs while working with HTML files. (Publisher: ecmel)  
+15. HTML End Tag Labels – Highlights and labels closing HTML tags for better readability. (Publisher: Alfonso Dal Colle)  
+16. Image Preview – Previews images inside Markdown or HTML files in VS Code. (Publisher: Kiss Tamás)  
+17. Indent-Rainbow – Colors indentation levels to make nested code structures easier to read. (Publisher: oderwat)  
+18. JavaScript (ES6) Code Snippets – Provides short JavaScript ES6 snippets (e.g., `clg → console.log()`). (Publisher: charalampos karypidis)  
+19. JSON Viewer – Formats and displays JSON files in a readable structure. (Publisher: Oliver Steurer)  
+
+💻 Web Development Tools  
+20. Live Server – Provides live preview and auto-reload for HTML/CSS/JS files. (Publisher: Ritwick Dey)  
+21. Material Icon Theme – Enhances VS Code with stylish icons for files and folders. (Publisher: Philipp Kief)  
+22. npm Intellisense – Suggests npm package names while typing. (Publisher: Christian Kohler)  
+23. Path Autocomplete – Helps with autocompleting file and folder paths. (Publisher: Mithridates)  
+24. Path Intellisense – Provides path suggestions while coding. (Publisher: Christian Kohler)  
+25. Prettier - Code Formatter – Automatically formats and beautifies your code. (Publisher: Prettier)  
+26. React Extension Pack – A bundle of essential extensions for ReactJS development. (Publisher: Jun Han)  
+27. REST Client – Allows testing APIs directly from VS Code (alternative to Postman). (Publisher: Huachao Mao)  
+28. Tailwind CSS IntelliSense – Provides class suggestions and syntax highlighting for Tailwind CSS. (Publisher: Tailwind Labs)  
+29. Thunder Client – A lightweight REST API testing tool (similar to Postman). (Publisher: Ranga Vadhineni)  
+
+🕹️ Fun & Miscellaneous  
+30. vscode-pets – Adds virtual pets inside VS Code for fun. (Publisher: Tony Baloney)  
+31. WakaTime – Tracks coding activity and provides analytics. (Publisher: WakaTime)  
+
+🎨 Themes  
+32. JellyFish – A soft dark theme. (Publisher: niivu)  
+33. Noctis Black – A pure black theme. (Publisher: Liviu Schera)  
+34. One Dark Pro Black – A black version of One Dark Pro. (Publisher: binaryify)  
+35. Dracula Official (Black Edition) – A black variant of the Dracula theme. (Publisher: Dracula Theme)  
+36. Night Owl Black – A black version of Night Owl. (Publisher: Sarah Drasner)  
+37. Cyberpunk 2077 Black – A cyberpunk-style black theme. (Publisher: Robb Owen)  
+
+
+
+//_________________________________//
+
+
+
+💡 Productivity & Code Assistance  
+1. Auto Rename Tag – Automatically renames closing tags when you change an opening tag in HTML/XML. (Jun Han)  
+2. Auto Import – Automatically adds missing import statements in JavaScript/TypeScript. (Steoates)  
+3. Better Comments – Enhances code comments with colors and formatting for better readability. (Aaron Bond)  
+4. Bracket Pair Color DLW – Colors matching brackets to make nested structures easier to understand. (CoenraadS)  
+5. Bracket Pair Colorization Toggler – Quickly toggle bracket colorization on and off. (Tino Hager)  
+6. Code Runner – Run JavaScript, Python, C, C++, and more directly from VS Code. (Jun Han)  
+7. CodeSnap – Capture and save beautiful code snippets as images. (adpyke)  
+8. Color Highlight – Highlights color codes (hex, rgba) in CSS/JS files. (Sergii Naumov)  
+
+🚨 Debugging & Error Handling  
+9. Error Lens – Displays errors and warnings directly in the code, reducing the need to check the console. (Alexander)  
+10. ESLint – Helps detect syntax and formatting issues in JavaScript/TypeScript. (Microsoft)  
+11. Console Ninja – A better alternative to console.log for improved debugging output. (Wallaby.js)  
+
+📜 File & Code Management  
+12. Excalidraw – Allows you to draw diagrams and flowcharts directly in VS Code. (Excalidraw)  
+13. GitHub Theme – Provides GitHub-style dark and light themes. (GitHub)  
+14. HTML CSS Support – Suggests CSS classes and IDs while working with HTML files. (ecmel)  
+15. HTML End Tag Labels – Highlights and labels closing HTML tags for better readability. (Aliariff)  
+16. Image Preview – Previews images inside Markdown or HTML files in VS Code. (Kisstkondoros)  
+17. Indent-Rainbow – Colors indentation levels to make nested code structures easier to read. (oderwat)  
+18. JavaScript (ES6) Code Snippets – Provides short JavaScript ES6 snippets (e.g., `clg → console.log()`). (charalampos karypidis)  
+19. JSON Viewer – Formats and displays JSON files in a readable structure. (tulios)  
+
+💻 Web Development Tools  
+20. Live Server – Provides live preview and auto-reload for HTML/CSS/JS files. (Ritwick Dey)  
+21. Material Icon Theme – Enhances VS Code with stylish icons for files and folders. (Philipp Kief)  
+22. npm Intellisense – Suggests npm package names while typing. (Christian Kohler)  
+23. Path Autocomplete – Helps with autocompleting file and folder paths. (ionutvmi)  
+24. Path Intellisense – Provides path suggestions while coding. (Christian Kohler)  
+25. Prettier - Code Formatter – Automatically formats and beautifies your code. (Prettier)  
+26. React Extension Pack – A bundle of essential extensions for ReactJS development. (Johannes)  
+27. REST Client – Allows testing APIs directly from VS Code (alternative to Postman). (Huachao Mao)  
+28. Tailwind CSS IntelliSense – Provides class suggestions and syntax highlighting for Tailwind CSS. (Tailwind Labs)  
+29. Thunder Client – A lightweight REST API testing tool (similar to Postman). (Rangav)  
+
+🕹️ Fun & Miscellaneous  
+30. vscode-pets – Adds virtual pets inside VS Code for fun. (Tony Baltrus)  
+31. WakaTime – Tracks coding activity and provides analytics. (WakaTime)  
+
+🎨 Themes  
+32. JellyFish – A soft dark theme. (azemoh)  
+33. Noctis Black – A pure black theme. (Livius)  
+34. One Dark Pro Black – A black version of One Dark Pro. (Binaryify)  
+35. Dracula Official (Black Edition) – A black variant of the Dracula theme. (Dracula Theme)  
+36. Night Owl Black – A black version of Night Owl. (Sarah Drasner)  
+37. Cyberpunk 2077 Black – A cyberpunk-style black theme. (Robb Owen)
