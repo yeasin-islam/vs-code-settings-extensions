@@ -31,6 +31,13 @@
 31.Aura Spirit Dracula Theme
 32.Auto Rename Tag
 33.Console Ninja
+//Theme
+*JellyFish
+*Noctis Black
+*One Dark Pro Black
+*Dracula Official (Black Edition)
+*Night Owl Black
+*Cyberpunk 2077 Black
 
 // The most reputable publishers for each Extension
 
